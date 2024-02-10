@@ -49,3 +49,7 @@ st.write(iris.target_names[prediction])
 
 st.subheader('Prediction Probability')
 st.write(prediction_prob)
+
+st.write("""
+Made By **_Jaweria Batool_**
+""")
