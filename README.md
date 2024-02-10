@@ -33,6 +33,9 @@ streamlit run app.py
 
 4. The app will open in your default web browser. Adjust the sliders for sepal length, sepal width, petal length, and petal width to input your parameters. The predicted type of Iris flower and the prediction probabilities will be displayed.
 
+## Demo
+[Live Demo](https://iris-flower-classification-jb.streamlit.app)
+
 ## Requirements
 
 - Python 3.x
